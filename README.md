@@ -12,3 +12,7 @@ Template da aplicação
 
 #### Demonstração:
 
+
+<a href="https://youtu.be/6d6sHtAhmX0" target="_blank" align="center">
+  <img src="./assets/challenge-07-thumb.png">
+</a>
