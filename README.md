@@ -14,5 +14,5 @@ Template da aplicação
 
 
 <a href="https://youtu.be/6d6sHtAhmX0" target="_blank" align="center">
-  <img src="./assets/challenge-07-thumb.png">
+  <img src="https://raw.githubusercontent.com/rocketseat-education/bootcamp-gostack-desafios/master/desafio-fundamentos-reactjs/assets/challenge-07-thumb.png">
 </a>
